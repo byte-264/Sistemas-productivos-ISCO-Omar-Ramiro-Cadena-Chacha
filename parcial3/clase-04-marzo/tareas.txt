@@ -1,0 +1,4 @@
+jugar
+comer
+correr
+entregar mate
